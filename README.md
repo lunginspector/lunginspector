@@ -1,7 +1,7 @@
 ## lunginspector
 An iOS/iPadOS "developer" creating Shortcuts & Applications that allows your devices to do things they probably should not be doing. Owner of the development team [jailbreak.party](https://github.com/jailbreakdotparty).
 
-[jailbreak.party Discord](https://discord.gg/XPj66zZ4gT) • [lunginspector's X/Twitter](https://x.com/users/lunginspector)
+[jailbreak.party Discord](https://discord.gg/XPj66zZ4gT) • [lunginspector's X/Twitter](https://x.com/lunginspector)
 
 ### My Projects
 * [Accessible](https://github.com/lunginspector/Accessible): A jailed filesystem viewer & extractor for iOS 15.0 - iOS 18.3.2.
