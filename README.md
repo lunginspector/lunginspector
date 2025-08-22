@@ -1,5 +1,5 @@
 ## lunginspector
-An iOS/iPadOS "developer" creating Shortcuts & Applications that allows your devices to do things they probably should not be doing. Owner of the development team [jailbreak.party](https://github.com/jailbreakdotparty).
+Making iDevices do things they probably shouldn’t be doing. Manager, Shortcuts Researcher, and Developer at [jailbreak.party](https://github.com/jailbreakdotparty).
 
 [jailbreak.party Discord](https://discord.gg/XPj66zZ4gT) • [lunginspector's X/Twitter](https://x.com/lunginspector)
 
