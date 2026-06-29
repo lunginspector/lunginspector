@@ -1,4 +1,3 @@
-
 ## lunginspector
 Making iDevices do things they probably shouldn’t be doing. Manager and Developer at [jailbreak.party](https://github.com/jailbreakdotparty).
 
@@ -14,11 +13,13 @@ Here’s some projects that were at least initially or are completely my own wor
 
 | Project | Description |
 | - | - |
-| [PancakeStore](https://github.com/jailbreakdotparty/PancakeStore) iOS 16.4+| This is a fork of MuffinStore jailed and is a very simple app downgrader for modern, jailed devices. I originally made this to improve the experience, but thanks to some contributions from Skadz once server-side changes broke downgrading, it does exactly what it needs and nothing else. It isn’t fun when it does inevitably break though. |
-| [Lithium](https://github.com/jailbreakdotparty/Lithium) iOS 16.0+ | This is my first real shot at an app that was made completely on my own from scratch, and it’s basically a device customization tool that uses MDM configuration profiles to toggle hidden settings and do some other cool things. |
+| [PancakeStore](https://github.com/jailbreakdotparty/PancakeStore) | This is a fork of MuffinStore jailed and is a very simple app downgrader for modern, jailed devices. I originally made this to improve the experience, but thanks to some contributions from Skadz once server-side changes broke downgrading, it does exactly what it needs and nothing else. It isn’t fun when it does inevitably break though. |
+| [Lithium](https://github.com/jailbreakdotparty/Lithium) | This is my first real shot at an app that was made completely on my own from scratch, and it’s basically a device customization tool that uses MDM configuration profiles to toggle hidden settings and do some other cool things. |
 | [PartyUI](https://github.com/jailbreakdotparty/PartyUI) | I made a UI package that has a bunch of random components that I like to use inside of my apps. It’s been through a lot of changes and design philosphy changes over the past few months, but I’m really liking how it looks and is implemented nowadays. |
 
 ## Contributions
+| Project | Contribution |
+| - | - |
 | [dirtyZero](https://github.com/jailbreakdotparty/dirtyZero) | I initially helped work on the UI for this app as well as add tweaks, and once DarkSword had came out, I reworked the app on my own with DarkSword in mind. I’m not a huge fan of my decision to do that... I’ll fix it one day. |
 | QuickSign | I made a ton of UI contributions to this app, and helped clean up some frontend as well. I curse anyone involved with the creation of the original frontend. |
 | [lara](https://github.com/rooootdev/lara) | Did a ton of frontend changes to this app before eventually giving up due to how bad it was. It’s still somewhat popular, though, so I’ll mention it here. |
@@ -27,4 +28,6 @@ Here’s some projects that were at least initially or are completely my own wor
 - Primary/Jailed Tester: iPhone 17 Pro, iOS 27.0
 - Dev Machine: MacBook Air 15-inch, M3 (2024), base spec 😭
 - Jailed/BookRestore Tester: iPhone 15 Pro, iOS 26.1
-- DarkSword Tester: iPhone 14 Pro Max, iOS 
+- DarkSword Tester: iPhone 14 Pro Max, iOS 26.0
+- DarkSword/l0ckwire Tester: iPhone 13 Pro, iOS 18.3
+- iOS 17 Tester: iPhone 11 Pro, iOS 17.5.1
