@@ -20,12 +20,13 @@ Here’s some projects that were at least initially or are completely my own wor
 ## Contributions
 | Project | Contribution |
 | - | - |
-| [dirtyZero](https://github.com/jailbreakdotparty/dirtyZero) | I initially helped work on the UI for this app as well as add tweaks, and once DarkSword had came out, I reworked the app on my own with DarkSword in mind. I’m not a huge fan of my decision to do that... I’ll fix it one day. |
+| [dirtyZero](https://github.com/jailbreakdotparty/dirtyZero) | Probably my first real attempt regarding SwiftUI, though I'm honestly not too proud of the things I've done to this app. Skadz was right about how it should've stayed something simple, and how the custom tweak creator and other things weren't really neccessary. |
 | [QuickSign](https://quicksign-team.github.io/) | I made a ton of UI contributions to this app, and helped clean up some frontend as well. I curse anyone involved with the creation of the original frontend. |
 | [lara](https://github.com/rooootdev/lara) | Did a ton of frontend changes to this app before eventually giving up due to how bad it was. It’s still somewhat popular, though, so I’ll mention it here. |
 
 ## My Setup
 - Primary/Jailed Tester: iPhone 17 Pro, iOS 27.0
+- Watch Tester: Apple Watch Series 10, GPS + Cellular, watchOS 27.0
 - Dev Machine: MacBook Air 15-inch, M3 (2024), base spec 😭
 - Jailed/BookRestore Tester: iPhone 15 Pro, iOS 26.1
 - DarkSword Tester: iPhone 14 Pro Max, iOS 26.0
