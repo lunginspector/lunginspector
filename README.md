@@ -1,34 +1,24 @@
 ## lunginspector
-Making iDevices do things they probably shouldn’t be doing. Manager and Developer at [jailbreak.party](https://github.com/jailbreakdotparty).
+making idevices do things they probably shouldn't be doing.
 
-## About Me
-- I have a passion for apple products as well as iOS modding, and have been playing around with these devices ever since the MDC days.
-- I’m currently learning my first programming language, Swift, and also learning a bit about iOS internals along the way.
-- As the manager of the development organization [jailbreak.party](https://github.com/jailbreakdotparry), I like to assist and release projects that allow you to do things that usually aren’t possible on iOS, currently making both jailed and exploit-related tools.
-- I also have a passion for UX and UI design, which is why I mainly do frontend work in projects as well as branding.
-- I have fun with my work and don’t take anything too seriously, which is why all of my releases are open-source and free for all.
+[Twitter](https://x.com/lunginspector) • [Projects Discord]()
 
-## Project Showcase
-Here’s some projects that were at least initially or are completely my own work. I have other projects both on here and at jailbreak.party that are mine as well.
+>[!TIP]
+>If you need support on one of my projects, ask on my [discord server]()! Just don't have the question be about version support. There's nothing I can do about unsupported devices in most cases.
 
-| Project | Description |
-| - | - |
-| [PancakeStore](https://github.com/jailbreakdotparty/PancakeStore) | This is a fork of MuffinStore jailed and is a very simple app downgrader for modern, jailed devices. I originally made this to improve the experience, but thanks to some contributions from Skadz once server-side changes broke downgrading, it does exactly what it needs and nothing else. It isn’t fun when it does inevitably break though. |
-| [Lithium](https://github.com/jailbreakdotparty/Lithium) | This is my first real shot at an app that was made completely on my own from scratch, and it’s basically a device customization tool that uses MDM configuration profiles to toggle hidden settings and do some other cool things. |
-| [PartyUI](https://github.com/jailbreakdotparty/PartyUI) | I made a UI package that has a bunch of random components that I like to use inside of my apps. It’s been through a lot of changes and design philosphy changes over the past few months, but I’m really liking how it looks and is implemented nowadays. |
+* i have a passion for ios modding and jailbreaking in general, especially in the modern space. i've been interested in this space since 2023 (thank you leminlimez for Cowabunga), and have been actually trying to make stuff for quite a bit now.
+* i also dabble in graphic design, am pretty good at leading organizations and teams (see jailbreak.party), and also have WAY too many iphones.
 
-## Contributions
-| Project | Contribution |
-| - | - |
-| [dirtyZero](https://github.com/jailbreakdotparty/dirtyZero) | Probably my first real attempt regarding SwiftUI, though I'm honestly not too proud of the things I've done to this app. Skadz was right about how it should've stayed something simple, and how the custom tweak creator and other things weren't really neccessary. |
-| [QuickSign](https://quicksign-team.github.io/) | I made a ton of UI contributions to this app, and helped clean up some frontend as well. I curse anyone involved with the creation of the original frontend. |
-| [lara](https://github.com/rooootdev/lara) | Did a ton of frontend changes to this app before eventually giving up due to how bad it was. It’s still somewhat popular, though, so I’ll mention it here. |
+## Projects
+| Name | Description | Supported Platforms |
+| - | - | - |
+| [Erosion](https://github.com/lunginspector/Erosion) | Robust device customizer that uses the bad_query exploit. | iOS 26.0 - 26.6.1 & 27.0db1 - 27.0db4 |
+| [Lithium](https://github.com/lunginspector/Lithium) | A configuration profile generator that's designed for device customization. | iOS 16.0+ |
+| [Filos](https://github.com/lunginspector/Filos) | A basic file manager for modern iDevices. | iOS 15.0+ |
+| [PartyUI](https://github.com/lunginspector/PartyUI) | A simple SwiftUI package that contains a bunch of components I like to reuse. | iOS 15.0+ |
 
-## My Setup
-- Primary/Jailed Tester: iPhone 17 Pro, iOS 27.0
-- Watch Tester: Apple Watch Series 10, GPS + Cellular, watchOS 27.0
-- Dev Machine: MacBook Air 15-inch, M3 (2024), base spec 😭
-- Jailed/BookRestore Tester: iPhone 15 Pro, iOS 26.1
-- DarkSword Tester: iPhone 14 Pro Max, iOS 26.0
-- DarkSword/l0ckwire Tester: iPhone 13 Pro, iOS 18.3
-- iOS 17 Tester: iPhone 11 Pro, iOS 17.5.1
+All of these tools also work on iPadOS, though they may not function as well.
+
+**have any serious inquiries?** message me on discord as `lunginspector` or on Twitter under the same username. **please don't ask for project support in private messages, i will not respond to them.**
+
+![](https://komarev.com/ghpvc/?username=lunginspector&style=for-the-badge&abbreviated=true)
